@@ -2,10 +2,12 @@
 This is my Thesis Project:<br>
 Virus Classification based on DNA and Protein (Amino Acid) Sequences using:
 - Temporal Convolutional Networks (TCN) built from scratch
-- Gated Recurrent Unit (GRU)
-- Long Short-Term Memory (LSTM)
+- Gated Recurrent Unit (GRU - Tensorflow)
+- Long Short-Term Memory (LSTM - Tensorflow)
 - Regular RNN (Vanilla RNN in Tensorflow)
 - Bidirectional GRU (additional seperate script for academic papers)
+- Support Vecctor Machine (SVM - sklearn, multiple kernels: Linear, RBF, Polynomial, Sigmoid)
+- K-Means Clustering (K-Means - sklearn)
 
 Feature Extraction used for DNA Sequences:<br>
 - Index-based Encoding
