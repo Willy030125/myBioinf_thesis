@@ -6,7 +6,7 @@ Virus Classification based on DNA and Protein (Amino Acid) Sequences using:
 - Long Short-Term Memory (LSTM - Tensorflow)
 - Regular RNN (Vanilla RNN in Tensorflow)
 - Bidirectional GRU (additional seperate script for academic papers)
-- Support Vecctor Machine (SVM - sklearn, multiple kernels: Linear, RBF, Polynomial, Sigmoid)
+- Support Vector Machine (SVM - sklearn, multiple kernels: Linear, RBF, Polynomial, Sigmoid)
 - K-Means Clustering (K-Means - sklearn)
 
 Feature Extraction used for DNA Sequences:<br>
